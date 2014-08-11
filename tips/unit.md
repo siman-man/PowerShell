@@ -4,7 +4,7 @@
 
 PowerShellではKB、MBなどのサイズの単位をサポートしている。
 
-```powershell
+```sh
 PS C:\Users> 1KB
 1024
 PS C:\Users> 1MB
