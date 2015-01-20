@@ -11,3 +11,4 @@
 * [今日の日付の取得](https://github.com/siman-man/PowerShell/blob/master/tips/today.md)
 * [FizzBuzz](https://github.com/siman-man/PowerShell/blob/master/tips/fizzbuzz.md)
 * [フィルターをかける](https://github.com/siman-man/PowerShell/blob/master/tips/filter.md)
+* [ファイル名の検索](https://github.com/siman-man/PowerShell/blob/master/tips/find_file.md)
